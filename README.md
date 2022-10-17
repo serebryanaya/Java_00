@@ -1,7 +1,7 @@
 # Day 00 – Piscine Java
 ### Management structures and arrays
 
-![image](https://user-images.githubusercontent.com/71732270/196285211-6602a5f6-6eb3-4f97-9822-a366b80fd4a6.png)
+![image](https://user-images.githubusercontent.com/71732270/196285211-6602a5f6-6eb3-4f97-9822-a366b80fd4a6.png)<br>
 Java Man, or *Homo erectus erectus*
 
 ### Exercise 00 – Sum of Digits
