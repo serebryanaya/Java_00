@@ -1,7 +1,7 @@
 # Day 00 – Piscine Java
 ### Management structures and arrays
 
-![java-man](misc/images/java-man.png)<br>
+![image](https://user-images.githubusercontent.com/71732270/196285211-6602a5f6-6eb3-4f97-9822-a366b80fd4a6.png)
 Java Man, or *Homo erectus erectus*
 
 ### Exercise 00 – Sum of Digits
@@ -66,7 +66,6 @@ $ java Program
    Illegal Argument
 ```
 
-# Chapter VI
 ### Exercise 02 – Endless Sequence (or not?)
 
 |Exercise 02: Endless Sequence (or not?)||
